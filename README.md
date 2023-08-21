@@ -22,9 +22,13 @@ To utilize the Face Recognition System, follow these steps:
 3. Run the system and provide the necessary input, such as images or video streams.
 
 ## 🎬 Demo
-Check out the captivating [Demo Video](demo_video.mp4) to witness the Face Recognition System in action!
+Check out the captivating [Demo Video]([demo_video.mp4](https://github.com/shubham001official/Face-Recognition-System/assets/109148746/b10ce06d-8286-43ae-909a-1508fb81c11a)) to witness the Face Recognition System in action!
 
-🎥 [Demo Video](demo_video.mp4)
+🎥 
+
+https://github.com/shubham001official/Face-Recognition-System/assets/109148746/b10ce06d-8286-43ae-909a-1508fb81c11a
+
+
 
 ## 🚀 Future Enhancements
 - Integration with cloud-based databases for more scalable and accessible storage of known individuals.
